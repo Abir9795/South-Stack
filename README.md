@@ -1,8 +1,10 @@
-# Southstack AI
+# South Stack
 
-**Southstack AI** is a state-of-the-art, senior-engineer-level AI coding partner and integrated development environment (IDE) built for the next generation of web development.
+**South Stack** is an AI-powered browser IDE and coding assistant built as a CSE327 group project.
 
-Built on top of **Vite**, **React**, and **WebContainers**, Southstack provides a seamless "Plan → Execute → Verify" loop, allowing the AI to not just suggest code, but to understand the entire codebase and verify its changes through real-time build and test feedback.
+Built on top of **Vite**, **React**, and **WebContainers**, South Stack provides a seamless "Plan → Execute → Verify" loop, allowing the AI to not just suggest code, but to understand the entire codebase and verify its changes through real-time build and test feedback.
+
+This portfolio copy is based on the final group branch, `southstack_v1`, from the original group repository: [mubtasimfuad7/southstack](https://github.com/mubtasimfuad7/southstack).
 
 ## 🚀 Key Features
 
@@ -11,6 +13,13 @@ Built on top of **Vite**, **React**, and **WebContainers**, Southstack provides 
 - **Advanced Codebase Awareness**: Recursive search and indexing for deep context on complex projects.
 - **"Antigravity" Diff Review**: Interactive review process for all AI-proposed changes.
 - **P2P Collaboration**: Built-in support for remote debugging and collaborative coding via WebRTC.
+- **Vision + Image-to-Design Workflow**: Local vision model support for image-aware UI generation.
+
+## Course Context
+
+South Stack was developed for the CSE327 course as a group project. The Git history includes contributions from Mubtasim Fuad, ShuvoDevDurjoy, Abir, and Misbah.
+
+My primary code contribution was the vision model provider and image-to-design workflow, including the local vision worker, image design orchestration, and related UI integration.
 
 ## 🛠️ Tech Stack
 
@@ -33,8 +42,8 @@ Built on top of **Vite**, **React**, and **WebContainers**, Southstack provides 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mubtasimfuad7/southstack.git
-   cd southstack
+   git clone https://github.com/Abir9795/South-Stack.git
+   cd South-Stack
    ```
 
 2. Install dependencies:

@@ -5,12 +5,12 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mubtasimfuad7/southstack.git"
+    "url": "git+https://github.com/Abir9795/South-Stack.git"
   },
   "bugs": {
-    "url": "https://github.com/mubtasimfuad7/southstack/issues"
+    "url": "https://github.com/Abir9795/South-Stack/issues"
   },
-  "homepage": "https://github.com/mubtasimfuad7/southstack#readme",
+  "homepage": "https://github.com/Abir9795/South-Stack#readme",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
